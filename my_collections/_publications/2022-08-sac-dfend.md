@@ -1,13 +1,12 @@
 ---
 id: 8
-title: 'D-FEND: A Diffusion-Based Fake News Detection Framework for News Articles Related to COVID-19'
-index: C06
-authors: So-Eun Han, <strong><u>Yunyong Ko</u></strong>, Yusim Kim, Heejin Park, Seongsu-Oh, and Sang-Wook Kim
-venue: The ACM Symposium on Applied Computing (<strong>ACM SAC</strong>)
-vtype: conference
-year: 2022
+title: 'FORESEE: An Effective and Efficient Framework for Estimating the Execution Times of IO Traces on the SSD'
+index: J02
+authors: <strong><u>Yoonsuk Kang</u></strong>, Yong-Yeon Jo, Jaehyuk Cha, Wan D. Bae, Wonjun Lee, and Sang-Wook Kim
+venue: IEEE Transactions on Computers (<strong>IEEE TC</strong>)
+vtype: journal
+year: 2021
 ptype: Full Paper
-paper: https://dl.acm.org/doi/pdf/10.1145/3477314.3507134
-<!-- code: https://yy-ko.github.com -->
+paper: https://ieeexplore.ieee.org/document/9261089
 ---
 
