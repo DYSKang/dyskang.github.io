@@ -1,13 +1,13 @@
 ---
 id: 3
-title: 'Efficient and Effective Influence Maximization in Social Networks: A Hybrid-Approach'
-index: J02
-authors: <strong><u>Yunyong Ko*</u></strong>, Kyung-Jae Cho*, and Sang-Wook Kim
-venue: <strong>Information Sciences</strong> (SCI)
-vtype: journal
-year: 2018
+title: 'Exploiting the uFLIP Benchmark for Analyzing SSDs Performance'
+index: C03
+authors: <strong><u>Yoonsuk Kang</u></strong>, Yong-Yeon Jo, Jaehyuk Cha, Sang-Wook Kim, and Young Kyun Shin
+venue: <strong>IEEE International Conference on Network Infrastructure and Digital Content</strong> (IEEE IC-NIDC)
+vtype: conference
+year: 2014
 ptype: Full Paper
-paper: https://www.sciencedirect.com/science/article/abs/pii/S0020025518305176
+paper: https://ieeexplore.ieee.org/document/7000345
 <!-- code: https://yy-ko.github.com -->
 ---
 
