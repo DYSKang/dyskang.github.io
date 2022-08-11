@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunyong Ko"
+title                    : "David (Yoon Suk) Kang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yunyong Ko"
-description              : "yyko's homepage"
-url                      : "https://yy-ko.gitbhub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "David (Yoon Suk) Kang"
+description              : "dysk's homepage"
+url                      : "https://dyskang.gitbhub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 future                   : true
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "yy-ko/yy-ko.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "dyskang/dyskang.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -124,24 +124,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunyong Ko"
+  name             : "David (Yoon Suk) Kang"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Postdoctoral researcher @ UIUC"
+  bio              : "Postdoctoral researcher @ UMich"
   location         : "Urbana, IL, USA"
-  # email            : "yyko@illinois.edu"
+  # email            : "yyko@umich.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:yyko@illinois.edu"
+      url: "mailto:umich@illinois.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yy-ko/"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.kr/citations?user=njeSUnIAAAAJ&hl=ko&authuser=2"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/yunyong-ko-41293687/"
+      url: "https://github.com/dyskang/"
+   # - label: "Google Scholar"
+   #   icon: "fas fa-fw fa-graduation-cap"
+   #   url: "https://scholar.google.co.kr/citations?user=njeSUnIAAAAJ&hl=ko&authuser=2"
+   # - label: "LinkedIn"
+   #   icon: "fab fa-fw fa-linkedin-in"
+   #   url: "https://www.linkedin.com/in/yunyong-ko-41293687/"
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # # url: "https://instagram.com/"
