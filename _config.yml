@@ -124,7 +124,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "David (Yoon Suk) Kang"
+  name             : "David Y. Kang"
   avatar           : "/assets/images/profile.jpg"
   bio              : "Postdoctoral researcher @ UMich"
   location         : "Ann Arbor, MI, USA"
@@ -133,9 +133,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:dyskang@umich.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dyskang/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/dyskang/"
    # - label: "Google Scholar"
    #   icon: "fas fa-fw fa-graduation-cap"
    #   url: "https://scholar.google.co.kr/citations?user=njeSUnIAAAAJ&hl=ko&authuser=2"
