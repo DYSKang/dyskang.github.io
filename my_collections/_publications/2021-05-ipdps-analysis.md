@@ -1,14 +1,12 @@
 ---
 id: 5
-title: 'An In-Depth Analysis on Distributed Training of Deep Neural Networks'
-index: C03
-authors: <strong><u>Yunyong Ko</u></strong>, Kibong Choi, Jiwon Seo, and Sang-Wook Kim
-venue: The IEEE International Parallel & Distributed Processing Symposium (<strong>IEEE IPDPS</strong>)
-vtype: conference
-year: 2021
+title: 'The uFLIP Benchmark Revisited for Evaluating SSDs'
+index: J01
+authors: <strong><u>Yoonsuk Kang</u></strong>, Yong-Yeon Jo, Jaehyuk Cha, Sang-Wook Kim, and Young Kyun Shin
+venue: International Journal of Communication Systems (<strong>IJCS</strong>)
+vtype: journal
+year: 2016
 ptype: Full Paper
-paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9460556
-<!-- code: https://yy-ko.github.com -->
-<!-- award: Selected as one of the spotlight presentations of CIKM 2021 -->
+paper: https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.2995
 ---
 
