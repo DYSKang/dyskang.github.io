@@ -1,8 +1,8 @@
 ---
-id: 5
-title: 'An In-Depth Analysis on Distributed Training of Deep Neural Networks'
+id: 1
+title: 'Selecting Similar Users in Collaborative Filtering'
 index: C03
-authors: <strong><u>Yunyong Ko</u></strong>, Kibong Choi, Jiwon Seo, and Sang-Wook Kim
+authors: Sang-Chul Lee, <strong><u>Yoonsuk Kang</u></strong>, Seihyun Jeong, Min-Hee Jang, Young-Sup Hwang, and Sang-Wook Kim
 venue: The IEEE International Parallel & Distributed Processing Symposium (<strong>IEEE IPDPS</strong>)
 vtype: conference
 year: 2021
