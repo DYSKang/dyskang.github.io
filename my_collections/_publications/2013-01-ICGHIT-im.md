@@ -8,6 +8,5 @@ venue: International Conference on Green and Human Information Technology (<stro
 vtype: conference
 year: 2013
 ptype: Full Paper
-
 ---
 
