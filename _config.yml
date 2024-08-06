@@ -127,7 +127,7 @@ author:
   name             : "David Y. Kang"
   avatar           : "/assets/images/profile.jpg"
   bio              : "Assistant Professor @ CBNU"
-  location         : "Cheongju-si, Chungcheongbuk-do, Korea"
+  #location         : "Cheongju-si, Chungcheongbuk-do, Korea"
   # email            : "yyko@umich.edu"
   links:
     - label: "Email"
